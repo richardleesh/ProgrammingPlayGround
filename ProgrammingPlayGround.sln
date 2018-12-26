@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWindowServicePlayGround",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTechPlayGround", "WebTechPlayGround\WebTechPlayGround.csproj", "{BBA01A0F-CA06-4613-880C-779FADDB4F9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst_DataModel", "CodeFirst_DataModel\CodeFirst_DataModel.csproj", "{92D8E393-FEE1-4A15-BB46-1D885E255183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BBA01A0F-CA06-4613-880C-779FADDB4F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA01A0F-CA06-4613-880C-779FADDB4F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA01A0F-CA06-4613-880C-779FADDB4F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D8E393-FEE1-4A15-BB46-1D885E255183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D8E393-FEE1-4A15-BB46-1D885E255183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D8E393-FEE1-4A15-BB46-1D885E255183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D8E393-FEE1-4A15-BB46-1D885E255183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
