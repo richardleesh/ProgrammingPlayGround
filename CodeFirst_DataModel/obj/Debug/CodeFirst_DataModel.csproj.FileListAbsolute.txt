@@ -1,0 +1,10 @@
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\CodeFirst_DataModel.dll.config
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\CodeFirst_DataModel.dll
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\CodeFirst_DataModel.pdb
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\EntityFramework.dll
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\EntityFramework.xml
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\obj\Debug\CodeFirst_DataModel.csprojResolveAssemblyReference.cache
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\obj\Debug\CodeFirst_DataModel.dll
+C:\MyProgrammingProjects\ProgrammingPlayGround\CodeFirst_DataModel\obj\Debug\CodeFirst_DataModel.pdb
